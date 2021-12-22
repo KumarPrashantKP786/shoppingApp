@@ -1,0 +1,4 @@
+{
+    "debug.javascript.codelens.npmScripts": "never",
+    "javascript.validate.enable": false
+}
